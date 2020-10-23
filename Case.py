@@ -92,7 +92,7 @@ def main():
     '''
     square(-300, 300, 35)
     turtle.right(45)
-    square(0, 270, 35)
+    square(-2, 272, 35)
     turtle.right(45)
     square(300, 300, 35)
     turtle.right(45)
@@ -126,10 +126,10 @@ def main():
     turtle.right(90)
     parallelogram(-345, -20, 50, 35)
     turtle.left(90)
-    parallelogram(-20, -120, 125, 85)
+    parallelogram(-22, -122, 125, 85)
     parallelogram(275, -85, 50, 35)
     turtle.left(45)
-    parallelogram(-280, -265, 50, 35)
+    parallelogram(-279, -265, 50, 35)
     parallelogram(75, -169, 50, 35)
     turtle.left(45)
     parallelogram(274, -310, 50, 35)
@@ -162,7 +162,7 @@ def main():
     turtle.right(180)
     triangle(-245, -95, 50, 5000 ** 0.5, '#4fbbe9')
     turtle.right(135)
-    triangle(103, -118, 120, 28800 ** 0.5, '#4fbbe9')
+    triangle(99, -121, 120, 28800 ** 0.5, '#4fbbe9')
     turtle.right(180)
     triangle(275, -100, 50, 5000 ** 0.5, '#4fbbe9')
     turtle.right(45)
@@ -172,6 +172,8 @@ def main():
     turtle.right(135)
     triangle(275, -170, 50, 5000 ** 0.5, '#4fbbe9')
     turtle.done()
+
+
 if __name__ == '__main__':
     main()
 
