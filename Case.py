@@ -133,10 +133,29 @@ def main():
     parallelogram(75, -169, 50, 35)
     turtle.left(45)
     parallelogram(274, -310, 50, 35)
+
+#Vera Shevchenko
+    turtle.left(-135)
+    triangle(-370, 210, 70, 9800 ** 0.5, '#fcde15')
+    turtle.left(-225)
+    triangle(-20, 0, 175, 61250 ** 0.5, '#fcde15')
+    turtle.left(225)
+    triangle(25, 180, 70, 9800 ** 0.5, '#fcde15')
+    turtle.left(90)
+    triangle(230, 265, 70, 9800 ** 0.5, '#fcde15')
+    turtle.left(-270)
+    triangle(-280, -95, 70, 9800 ** 0.5, '#fcde15')
+    turtle.left(-270)
+    triangle(275, 15, 70, 9800 ** 0.5, '#fcde15')
+    turtle.left(-270)
+    triangle(-255, -255, 70, 9800 ** 0.5, '#fcde15')
+    turtle.left(135)
+    triangle(1, -240, 70, 9800 ** 0.5, '#fcde15')
+    turtle.left(90)
+    triangle(272, -218, 70, 9800 ** 0.5, '#fcde15')
     turtle.done()
 
 
 if __name__ == '__main__':
     main()
 
-    rgtff
