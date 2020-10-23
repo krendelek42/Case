@@ -153,9 +153,25 @@ def main():
     triangle(1, -240, 70, 9800 ** 0.5, '#fcde15')
     turtle.left(90)
     triangle(272, -218, 70, 9800 ** 0.5, '#fcde15')
+    turtle.right(135)
+    triangle(-320, 140, 50, 5000 ** 0.5, '#4fbbe9')
+    turtle.right(45)
+    triangle(60, 250, 50, 5000 ** 0.5, '#4fbbe9')
+    turtle.right(360)
+    triangle(198, 335, 50, 5000 ** 0.5, '#4fbbe9')
+    turtle.right(180)
+    triangle(-245, -95, 50, 5000 ** 0.5, '#4fbbe9')
+    turtle.right(135)
+    triangle(103, -118, 120, 28800 ** 0.5, '#4fbbe9')
+    turtle.right(180)
+    triangle(275, -100, 50, 5000 ** 0.5, '#4fbbe9')
+    turtle.right(45)
+    triangle(-244, -300, 50, 5000 ** 0.5, '#4fbbe9')
+    turtle.right(270)
+    triangle(17, -160, 50, 5000 ** 0.5, '#4fbbe9')
+    turtle.right(135)
+    triangle(275, -170, 50, 5000 ** 0.5, '#4fbbe9')
     turtle.done()
-
-
 if __name__ == '__main__':
     main()
 
