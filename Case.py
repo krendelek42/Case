@@ -133,8 +133,6 @@ def main():
     parallelogram(75, -169, 50, 35)
     turtle.left(45)
     parallelogram(274, -310, 50, 35)
-
-#Vera Shevchenko
     turtle.left(-135)
     triangle(-370, 210, 70, 9800 ** 0.5, '#fcde15')
     turtle.left(-225)
