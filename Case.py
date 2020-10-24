@@ -204,7 +204,6 @@ def main():
     triangle(0, -240, 35, 2450 ** 0.5, '#a551e1')
     turtle.right(180)
     triangle(225, -313, 35, 2450 ** 0.5, '#a551e1')
-
     turtle.done()
 
 
