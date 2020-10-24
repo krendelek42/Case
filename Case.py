@@ -1,7 +1,7 @@
 # Case-study #1
-# Developers:   Dokukina K. (%),
-#               Nazirova E. (%),
-#               Shevchenko V. (%)
+# Developers:   Dokukina K. (45%),
+#               Nazirova E. (25%),
+#               Shevchenko V. (30%)
 import turtle
 
 
